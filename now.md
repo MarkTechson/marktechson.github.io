@@ -3,13 +3,9 @@ layout: page
 title: Now
 permalink: /now/
 ---
+Here's what I'm working on now:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* __03-23-2016__
+  * Learning [TypeScript](http://www.typescriptlang.org/)
+  * Learning [ReactJS](https://facebook.github.io/react/) by doing courses on [reactjsprogram.com](http://www.reactjsprogram.com/#courses) by the awesome [Tyler McGinnis](http://tylermcginnis.com/)
+  * Practicing Spanish with [DuoLingo](http://duolingo.com)

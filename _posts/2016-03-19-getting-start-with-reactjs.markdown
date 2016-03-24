@@ -3,6 +3,10 @@ layout: post
 title:  "Getting Started with ReactJS"
 date:   2016-03-19 13:30:00 -0500
 categories: reactjs install
+summary: >
+         An explanation of all the tools you'll need to get started with
+         using ReactJS for the first time.
+
 ---
 Getting started with React can be seriously daunting. One thing I have trouble with is the WHY must I do something. I've broken down some of the initial steps and concepts that I think you'll need to know to get yourself started with React. This won't be a tutorial as I think there are a bunch of resources out there. I want to give you enough to be dangerous and overcome the hump with getting up and running.
 

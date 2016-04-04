@@ -2,7 +2,9 @@
 layout: post
 title:  "Getting Started with ReactJS"
 date:   2016-03-19 13:30:00 -0500
-categories: reactjs install
+categories: ['reactjs']
+comments: true
+post_id: bada39af-a2d2-4c7b-9d9b-a1ab96c17fea
 summary: >
          An explanation of all the tools you'll need to get started with
          using ReactJS for the first time.

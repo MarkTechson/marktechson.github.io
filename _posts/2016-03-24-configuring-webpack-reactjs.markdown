@@ -2,7 +2,9 @@
 layout: post
 title:  "Unpacking WebPack and ReactJS"
 date:   2016-03-24 13:30:00 -0500
-categories: reactjs install
+categories: ['webpack']
+comments: true
+post_id: 3e2c2685-c93f-428f-bfa8-c9bc78a8be7b
 summary: >
          WebPack is a critical part of the ReactJS toolchain, in this post we'll explore configuration.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I left NativeScript"
-date:   2016-07-26 01:30:00 -0500
+date:   2016-07-26 01:22:00 -0500
 categories: ['JavaScript', 'NativeScript']
 comments: true
 post_id: e6fb5aa4-c576-4f06-8b47-c1c819360829

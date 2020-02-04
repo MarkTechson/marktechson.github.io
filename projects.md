@@ -1,23 +1,14 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 ---
-# Udacity Projects (Completed October 2015)
-[Udacity Portfolio Project](https://github.com/MarkTechson/udacity-porfolio)
 
-* Project to create an online portfolio using HTML/CSS and Twitter's Bootstrap
+<p class="message">
+Take a look at the projects I'm currently working on.
+</p>
 
-[HTML 5 Video Game: Bug Crossing](https://github.com/MarkTechson/frontend-nanodegree-arcade-game)
+<h3>Totally Strong | Mobile App</h3> 
+- Totally Strong is an incredible new fitness mobile app designed to create a supportive community of health-conscious individuals who want to be stronger.
 
-* Project to create a browser based game using HTML5 Canvas and JavaScript
-
-[Udacity Feed Reader](https://github.com/MarkTechson/frontend-nanodegree-feedreader)
-
-* In this project students were tasked with updating the Jasmine unit test suite
-
-[Private Practice (Neighborhood Map)](https://github.com/MarkTechson/frontend-nanodegree-neighborhood-map)
-
-* A web application using Google Maps API, BetterDoctors API for data sources and uses Knockout.js to power the app
-
-...more details can be found [here](https://github.com/MarkTechson?tab=repositories)
+    Powered by <a href="https://flutter.dev">Flutter</a>, <a href="https://https://firebase.google.com/.com">Firebase</a>
+ 

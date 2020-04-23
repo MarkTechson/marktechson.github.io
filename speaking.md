@@ -11,6 +11,7 @@ Interested in knowing more about my speaking? Let's get in touch. Shoot a note t
 -  [Building an App in 30 Days...And Launching &#124; #causeascene Conference - Chicago 2018](https://youtu.be/tzwlagme3C4)
 
 <h3>Meetup Sessions</h3>
+- [Introduction to Animations in Flutter](https://www.youtube.com/watch?v=LA-nO6bGu7o)
 - [Here we go again: Giving Google's Dart a Second Look &#124; Northwest Chicago JavaScript Jan 2020](https://youtu.be/O4XzTAYgl8Q)
 
 - [Learn to Keep Your Promises &#124; Northwest Chicago JavaScript July 2017](https://youtu.be/QeRwh0wP96Q)

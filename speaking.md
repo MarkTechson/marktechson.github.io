@@ -4,7 +4,7 @@ title: Speaking
 ---
 
 <p class="message">
-Interested in knowing more about my speaking? Let's get in touch. Shoot a note to marktechson via Google's service.
+Interested in knowing more about my speaking or training? Let's get in touch. Shoot a note to marktechson via Google's service.
 </p>
 
 <h3>Conference Talks</h3> 

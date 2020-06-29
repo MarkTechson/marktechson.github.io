@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking a bite out of FAANG: My Interview Study Plan"
+title:  "What I Learned about Interviews That Can Help Get You More Offers"
 date:   2020-06-28 13:30:00 -0500
 categories: ['interviews']
 comments: true

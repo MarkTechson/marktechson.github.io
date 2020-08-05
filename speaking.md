@@ -8,6 +8,7 @@ Interested in knowing more about my speaking or training? Let's get in touch. Sh
 </p>
 
 <h3>Conference Talks</h3> 
+- [From Adversary to Advocate &#124; Prompt Conf 2019](https://www.youtube.com/watch?v=8cd8mFz9NP0)
 -  [Building an App in 30 Days...And Launching &#124; #causeascene Conference - Chicago 2018](https://youtu.be/tzwlagme3C4)
 
 <h3>Meetup Sessions</h3>

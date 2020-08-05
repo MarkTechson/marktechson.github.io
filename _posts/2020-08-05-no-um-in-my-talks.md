@@ -9,9 +9,6 @@ summary: >
          This is exactly how I improved my public speaking - by removing filler words.
 
 ---
-
-# I don’t say "um", "like", or "you know" during my talks, I do this instead...
-
 I’m an alien - I LOVE public speaking.
 
 There’s something about the rush of delivering meaningful content and engaging with people! I absolutely love it.

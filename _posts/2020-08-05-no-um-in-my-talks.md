@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I don’t say "um", "like", or "you know" during my presentations, I do this instead..."
+title:  I don’t say "um", "like", or "you know" during my presentations, I do this instead...
 date:   2020-08-05 09:30:00 -0500
 categories: ['public-speaking']
 comments: true

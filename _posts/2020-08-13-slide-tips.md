@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  You are putting too much on your slides
-date:   2020-08-05 09:30:00 -0500
+date:   2020-08-13 09:30:00 -0500
 categories: ['public-speaking']
 comments: true
 post_id: 05e9d405-465e-4cfe-a667-731f8cba1642
